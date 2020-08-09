@@ -1,0 +1,40 @@
+body,
+html {
+  width: 100%;
+  height: 90%;
+  font-family: 'Montserrat', sans-serif;
+}
+hr
+{
+	border-color: orange;
+	border-width:3px;
+	max-width: 65px;
+}
+h1
+{
+	font-size:3rem; 
+}
+
+body
+{
+	 background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+}
+
+.btn-primary
+{
+	background-color: #e0234f;
+	border:solid 2px #863450;
+	border-radius: 300px;
+	padding:12px 10px;
+	
+}
+
+.text-center
+{
+	padding-top: 172px;
+}
